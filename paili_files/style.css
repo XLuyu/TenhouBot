@@ -1,0 +1,29 @@
+BODY{
+	color:#FFFFFF;
+	background-color:#101820;
+	font-size:10pt;
+	margin-left:0;
+	margin-right:0;
+}
+TABLE{
+	font-size:10pt;
+	color:#000000;
+}
+.w, .w TABLE{
+	color:#FFFFFF;
+}
+.w A:link, .w A:visited{
+	color:#FFFFFF;
+}
+.w A:hover{
+	color:#FFAA00;
+}
+.s{
+	background-color:#FFFFFF;
+	border-bottom:4px solid #000000;
+	border-right:4px solid #000000;
+}
+H3{
+	margin: 10px 0 20px 0;
+	border-bottom: 1px solid #CCCCCC;
+}
